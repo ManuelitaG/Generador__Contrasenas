@@ -2,6 +2,12 @@
 
 Aplicación web desarrollada con **React + TypeScript + Vite** para generar contraseñas temporales cumpliendo reglas específicas definidas en un ejercicio basado en la **Regla del Producto**.
 
+
+## Demo del proyecto
+
+Aplicación desplegada en Vercel:
+
+🔗 https://generador-contrasenas-xi.vercel.app
 ---
 
 ## Descripción
